@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hi 👋
 
-Here are some ideas to get you started:
+Skills 
 
-- 🔭 I’m currently working on ... Unreal Engine
-- 🌱 I’m currently learning ... Rust
-- 👯 I’m looking to collaborate on ... Vertex Studio
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... Anything
-
+- Game developer focused in Unreal Engine, Unity and A-Frame
+- 3D modeling and rigging in Blender
+- VR/AR Developer
+- I’m currently learning Rust programming 
